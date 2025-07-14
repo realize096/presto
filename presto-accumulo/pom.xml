@@ -14,7 +14,7 @@
 
     <properties>
         <air.main.basedir>${project.parent.basedir}</air.main.basedir>
-        <dep.accumulo.version>1.7.4</dep.accumulo.version>
+        <dep.accumulo.version>2.0.0</dep.accumulo.version>
         <dep.curator.version>2.12.0</dep.curator.version>
         <dep.reload4j.version>1.2.18.3</dep.reload4j.version>
     </properties>
@@ -232,7 +232,7 @@
         <dependency>
             <groupId>org.apache.commons</groupId>
             <artifactId>commons-lang3</artifactId>
-            <version>3.4</version>
+            <version>3.18.0</version>
         </dependency>
 
         <dependency>
